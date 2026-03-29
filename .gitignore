@@ -1,0 +1,5 @@
+server
+proxy
+*.out
+*.o
+*.exe
